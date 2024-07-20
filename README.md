@@ -1,1 +1,1 @@
-# nlp_project
+# Project for the course Natural Language Processing
