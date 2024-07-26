@@ -1,6 +1,6 @@
 %% BioMed_Central_Bib_Style_v1.01
 
-\begin{thebibliography}{5}
+\begin{thebibliography}{8}
 % BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
 \ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
 \ifx \binits  \undefined \def \binits#1{#1}\fi
@@ -44,25 +44,6 @@
 \csname PreBibitemsHook\endcsname
 
 %%% 1
-\bibitem[\protect\citeauthoryear{Rajagopal et~al.}{2013}]{10.1145/2487788.2487995}
-\begin{bchapter}
-\bauthor{\bsnm{Rajagopal}, \binits{D.}},
-\bauthor{\bsnm{Cambria}, \binits{E.}},
-\bauthor{\bsnm{Olsher}, \binits{D.}},
-\bauthor{\bsnm{Kwok}, \binits{K.}}:
-\bctitle{A graph-based approach to commonsense concept extraction and semantic similarity detection}.
-In: \bbtitle{Proceedings of the 22nd International Conference on World Wide Web}.
-\bsertitle{WWW '13 Companion},
-pp. \bfpage{565}--\blpage{570}.
-\bpublisher{Association for Computing Machinery},
-\blocation{New York, NY, USA}
-(\byear{2013}).
-\doiurl{10.1145/2487788.2487995} .
-\burl{https://doi.org/10.1145/2487788.2487995}
-\end{bchapter}
-\endbibitem
-
-%%% 2
 \bibitem[\protect\citeauthoryear{Devlin et~al.}{2018}]{DBLP:journals/corr/abs-1810-04805}
 \begin{botherref}
 \oauthor{\bsnm{Devlin}, \binits{J.}},
@@ -74,6 +55,17 @@ CoRR
 \textbf{abs/1810.04805}
 (2018)
 {\href{https://arxiv.org/abs/1810.04805}{{1810.04805}}}
+\end{botherref}
+\endbibitem
+
+%%% 2
+\bibitem[\protect\citeauthoryear{{Games Workshop}}{1990}]{mightyempires1990}
+\begin{botherref}
+\oauthor{\bsnm{{Games Workshop}}}:
+Mighty Empires.
+\url{https://boardgamegeek.com/boardgame/52/mighty-empires}.
+board game
+(1990)
 \end{botherref}
 \endbibitem
 
@@ -92,6 +84,17 @@ CoRR
 \endbibitem
 
 %%% 4
+\bibitem[\protect\citeauthoryear{OpenAI}{2024}]{openai_gpt4o}
+\begin{botherref}
+\oauthor{\bsnm{OpenAI}}:
+GPT-4o: Generative Pre-trained Transformer 4 - Optimized.
+Available online at \url{https://www.openai.com/gpt-4o}.
+Accessed: 2024-07-22
+(2024)
+\end{botherref}
+\endbibitem
+
+%%% 5
 \bibitem[\protect\citeauthoryear{BoardGameGeek}{2000}]{BoardGameGeek}
 \begin{botherref}
 \oauthor{\bsnm{BoardGameGeek}}:
@@ -102,7 +105,37 @@ Accessed: 2024-07-21
 \end{botherref}
 \endbibitem
 
-%%% 5
+%%% 6
+\bibitem[\protect\citeauthoryear{Goblinpedia}{2024}]{goblinpedia}
+\begin{botherref}
+\oauthor{\bsnm{Goblinpedia}}:
+Goblinpedia: The Italian Board Game Encyclopedia.
+\url{https://www.goblins.net/goblinpedia}.
+Accessed: 2024-07-26
+(2024)
+\end{botherref}
+\endbibitem
+
+%%% 7
+\bibitem[\protect\citeauthoryear{Rajagopal et~al.}{2013}]{10.1145/2487788.2487995}
+\begin{bchapter}
+\bauthor{\bsnm{Rajagopal}, \binits{D.}},
+\bauthor{\bsnm{Cambria}, \binits{E.}},
+\bauthor{\bsnm{Olsher}, \binits{D.}},
+\bauthor{\bsnm{Kwok}, \binits{K.}}:
+\bctitle{A graph-based approach to commonsense concept extraction and semantic similarity detection}.
+In: \bbtitle{Proceedings of the 22nd International Conference on World Wide Web}.
+\bsertitle{WWW '13 Companion},
+pp. \bfpage{565}--\blpage{570}.
+\bpublisher{Association for Computing Machinery},
+\blocation{New York, NY, USA}
+(\byear{2013}).
+\doiurl{10.1145/2487788.2487995} .
+\burl{https://doi.org/10.1145/2487788.2487995}
+\end{bchapter}
+\endbibitem
+
+%%% 8
 \bibitem[\protect\citeauthoryear{Park and Jun}{2009}]{PARK20093336}
 \begin{barticle}
 \bauthor{\bsnm{Park}, \binits{H.-S.}},

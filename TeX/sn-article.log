@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  23 JUL 2024 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  26 JUL 2024 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -490,24 +490,54 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-Package hyperref Info: Option `colorlinks' set `true' on input line 67.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen261
+\captionmargin=\dimen262
+\caption@leftmargin=\dimen263
+\caption@rightmargin=\dimen264
+\caption@width=\dimen265
+\caption@indent=\dimen266
+\caption@parindent=\dimen267
+\caption@hangindent=\dimen268
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \FigName \@captype \vskip \abovecaptionskip \@figurecaption {#1}{#2} \else \@tablecaption {#1}{#2} \vskip \belowcaptionskip \fi  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count324
+\c@continuedfloat=\count325
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 68.
 
 
-Package amsthm Warning: Unknown theoremstyle `thmstyleone' on input line 84.
+Package amsthm Warning: Unknown theoremstyle `thmstyleone' on input line 86.
 
-\c@theorem=\count324
+\c@theorem=\count326
 
-Package amsthm Warning: Unknown theoremstyle `thmstyletwo' on input line 91.
+Package amsthm Warning: Unknown theoremstyle `thmstyletwo' on input line 93.
 
-\c@example=\count325
-\c@remark=\count326
+\c@example=\count327
+\c@remark=\count328
 
-Package amsthm Warning: Unknown theoremstyle `thmstylethree' on input line 95.
+Package amsthm Warning: Unknown theoremstyle `thmstylethree' on input line 97.
 
-\c@definition=\count327
+\c@definition=\count329
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count328
+\l__color_backend_stack_int=\count330
 \l__pdf_internal_box=\box76
 ) (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux
 
@@ -516,24 +546,24 @@ LaTeX Warning: Label `results' multiply defined.
 )
 \openout1 = `sn-article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -572,16 +602,16 @@ LaTeX Font Info:    ... okay on input line 101.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count329
-\scratchdimen=\dimen261
+\scratchcounter=\count331
+\scratchdimen=\dimen269
 \scratchbox=\box77
-\nofMPsegments=\count330
-\nofMParguments=\count331
+\nofMPsegments=\count332
+\nofMParguments=\count333
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count332
-\MPscratchDim=\dimen262
-\MPnumerator=\count333
-\makeMPintoPDFobject=\count334
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen270
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
 \everyMPtoPDFconversion=\toks41
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -589,95 +619,109 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 101.
+Package hyperref Info: Link coloring ON on input line 103.
  (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.out) (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.out)
 \@outlinefile=\write3
 \openout3 = `sn-article.out'.
 
-\c@lstlisting=\count335
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 129.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 129.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.43146> not available
-(Font)              size <8> substituted on input line 129.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 129.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+\c@lstlisting=\count337
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 133.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 133.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 133.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 129.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 133.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
 
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 129.
+ []
 
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 129.
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
 
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 129.
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2] (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.bbl
+ [3]
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 166.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 166.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.015> not available
+(Font)              size <5> substituted on input line 166.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 166.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 166.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3])
+ [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4] (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux)
+ [5] (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.bbl)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6] (/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.43146pt have occurred.
+(Font)              up to 0.985pt have occurred.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
-(rerunfilecheck)             Checksum: EA997F20CD187646876B350AFDAB5D51;445.
+(rerunfilecheck)             Checksum: 063B39BFB37EB597CBD2DA9DBB722135;783.
  ) 
 Here is how much of TeX's memory you used:
- 14333 strings out of 476025
- 223388 string characters out of 5790017
- 1864388 words of memory out of 5000000
- 34515 multiletter control sequences out of 15000+600000
- 522641 words of font info for 74 fonts, out of 8000000 for 9000
+ 15651 strings out of 476025
+ 249202 string characters out of 5790017
+ 1861388 words of memory out of 5000000
+ 35819 multiletter control sequences out of 15000+600000
+ 522204 words of font info for 72 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 90i,7n,90p,1445b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.pdf (4 pages, 132117 bytes).
+ 90i,11n,117p,1458b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.pdf (6 pages, 177118 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
