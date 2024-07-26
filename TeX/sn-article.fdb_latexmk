@@ -1,17 +1,17 @@
 # Fdb version 4
-["bibtex /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article"] 1721984364 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.bbl" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article" 1721984365 0
+["bibtex /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article"] 1721984364 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.bbl" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article" 1721994926 0
   "./sn-mathphys-num.bst" 1700554414 64141 2560fd4f8e8321a304f732d035eb1b51 ""
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux" 1721984365 2831 d2c960495e4f3fac333839eed6e32489 "pdflatex"
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux" 1721994926 2831 d2c960495e4f3fac333839eed6e32489 "pdflatex"
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-bibliography.bib" 1721984326 5714 14d68f610d6c4147fb5ace1953f3f0e6 ""
   (generated)
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.bbl"
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.blg"
   (rewritten before read)
-["pdflatex"] 1721984365 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.tex" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.pdf" "sn-article" 1721984365 0
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux" 1721984365 2831 d2c960495e4f3fac333839eed6e32489 "pdflatex"
+["pdflatex"] 1721994925 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.tex" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.pdf" "sn-article" 1721994926 0
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.aux" 1721994926 2831 d2c960495e4f3fac333839eed6e32489 "pdflatex"
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.bbl" 1721984365 5244 18fc3af0368bdc3c2f3e60da1cad8660 "bibtex /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article"
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.out" 1721984365 783 063b39bfb37eb597cbd2da9dbb722135 "pdflatex"
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.tex" 1721984363 20760 7f49df3fc9073e91b13844d31014f99d ""
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.out" 1721994926 783 063b39bfb37eb597cbd2da9dbb722135 "pdflatex"
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-article.tex" 1721994925 20936 0d0c95e80899d7c0eb1d6f4bf243e882 ""
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/nlp/nlp_project/TeX/sn-jnl.cls" 1700554412 55331 2adf3041e7f64a0f542a04760be0043f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
